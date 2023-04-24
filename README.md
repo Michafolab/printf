@@ -1,4 +1,4 @@
-**c-printf project ALX**
+**C-printf project ALX**
 
 
 **C - printf (C Group project) | Project was done by teams of 2 people in ALX:: MICHAEL AFOLABI, MICHAEL NGARAMBE)**
